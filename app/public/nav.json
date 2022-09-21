@@ -1,0 +1,325 @@
+[
+      {
+        "floorCellData": {
+          "to": "newChannelPage",
+          "params": {
+            "channelBusiness": "10",
+            "channelId": "4053",
+            "newChannelFlag": true
+          },
+          "index": 1,
+          "words": "",
+          "imgUrl": "https://img30.360buyimg.com/mobilecms/jfs/t1/152758/37/12989/8884/5fefa67cE1244a6ad/6495bed0f22bbde8.png",
+          "title": "超市",
+          "fixIndex": 5,
+          "userAction": "{\"spm_id\":\"ball_20|3|1|tpl2|30|超市|\",\"channelBusiness\":\"10\",\"newChannelFlag\":true,\"to\":\"newChannelPage\",\"channelId\":\"4053\"}",
+          "otherUserAction": "{\"spm_id\":\"ballLayer_20|3|1|tpl2|30|超市|\",\"channelBusiness\":\"10\",\"newChannelFlag\":true,\"to\":\"newChannelPage\",\"channelId\":\"4053\"}",
+          "titleColor": "#000000",
+          "floorCellType": "common"
+        }
+      },
+      {
+        "floorCellData": {
+          "to": "newChannelPage",
+          "params": {
+            "channelBusiness": "21",
+            "channelId": "4086",
+            "newChannelFlag": true
+          },
+          "index": 2,
+          "words": "",
+          "imgUrl": "https://img30.360buyimg.com/mobilecms/jfs/t1/85658/4/23437/11783/6231502bEb825de77/2cc97d34b154acc7.png",
+          "title": "生鲜果蔬",
+          "fixIndex": 5,
+          "userAction": "{\"spm_id\":\"ball_20|3|2|tpl2|30|生鲜果蔬|\",\"channelBusiness\":\"21\",\"newChannelFlag\":true,\"to\":\"newChannelPage\",\"channelId\":\"4086\"}",
+          "otherUserAction": "{\"spm_id\":\"ballLayer_20|3|2|tpl2|30|生鲜果蔬|\",\"channelBusiness\":\"21\",\"newChannelFlag\":true,\"to\":\"newChannelPage\",\"channelId\":\"4086\"}",
+          "titleColor": "#000000"
+        },
+        "floorCellType": "common"
+      },
+      {
+        "floorCellData": {
+          "to": "newChannelPage",
+          "params": {
+            "channelBusiness": "15",
+            "channelId": "4082",
+            "newChannelFlag": true
+          },
+          "index": 3,
+          "words": "",
+          "imgUrl": "https://img30.360buyimg.com/mobilecms/jfs/t1/170117/14/17884/8232/6073c058E860b7549/4608bb5de6206c3a.png",
+          "title": "乳制品",
+          "fixIndex": 5,
+          "userAction": "{\"spm_id\":\"ball_20|3|3|tpl2|30|乳制品|\",\"channelBusiness\":\"15\",\"newChannelFlag\":true,\"to\":\"newChannelPage\",\"channelId\":\"4082\"}",
+          "otherUserAction": "{\"spm_id\":\"ballLayer_20|3|3|tpl2|30|乳制品|\",\"channelBusiness\":\"15\",\"newChannelFlag\":true,\"to\":\"newChannelPage\",\"channelId\":\"4082\"}",
+          "titleColor": "#000000"
+        },
+        "floorCellType": "common"
+      },
+      {
+        "floorCellData": {
+          "to": "newChannelPage",
+          "params": {
+            "channelBusiness": "16",
+            "channelId": "4083",
+            "newChannelFlag": true
+          },
+          "index": 4,
+          "words": "",
+          "imgUrl": "https://img30.360buyimg.com/mobilecms/jfs/t1/188383/30/7677/9386/60c308b2E2b4b259f/45d803a575430c43.png",
+          "title": "粮油副食",
+          "fixIndex": 5,
+          "userAction": "{\"spm_id\":\"ball_20|3|4|tpl2|30|粮油副食|\",\"channelBusiness\":\"16\",\"newChannelFlag\":true,\"to\":\"newChannelPage\",\"channelId\":\"4083\"}",
+          "otherUserAction": "{\"spm_id\":\"ballLayer_20|3|4|tpl2|30|粮油副食|\",\"channelBusiness\":\"16\",\"newChannelFlag\":true,\"to\":\"newChannelPage\",\"channelId\":\"4083\"}",
+          "titleColor": "#000000"
+        },
+        "floorCellType": "common"
+      },
+      {
+        "floorCellData": {
+          "to": "newChannelPage",
+          "params": {
+            "channelBusiness": "50",
+            "channelId": "4051",
+            "newChannelFlag": true
+          },
+          "index": 5,
+          "words": "",
+          "imgUrl": "https://img30.360buyimg.com/mobilecms/jfs/t1/181667/35/6075/10202/60ade8d6E2067b9da/3a48a522ea152272.png",
+          "title": "送药上门",
+          "fixIndex": 5,
+          "userAction": "{\"spm_id\":\"ball_20|3|5|tpl2|30|送药上门|\",\"channelBusiness\":\"50\",\"newChannelFlag\":true,\"to\":\"newChannelPage\",\"channelId\":\"4051\"}",
+          "otherUserAction": "{\"spm_id\":\"ballLayer_20|3|5|tpl2|30|送药上门|\",\"channelBusiness\":\"50\",\"newChannelFlag\":true,\"to\":\"newChannelPage\",\"channelId\":\"4051\"}",
+          "titleColor": "#000000"
+        },
+        "floorCellType": "common"
+      },
+      {
+        "floorCellData": {
+          "to": "newChannelPage",
+          "params": {
+            "channelBusiness": "18",
+            "channelId": "4085",
+            "newChannelFlag": true
+          },
+          "index": 6,
+          "words": "",
+          "imgUrl": "https://img30.360buyimg.com/mobilecms/jfs/t1/175687/6/5265/8891/607cebf4E00fa2549/bffe07ca1dff3a62.png",
+          "title": "个洗家清",
+          "fixIndex": 5,
+          "userAction": "{\"spm_id\":\"ball_20|3|6|tpl2|30|个洗家清|\",\"channelBusiness\":\"18\",\"newChannelFlag\":true,\"to\":\"newChannelPage\",\"channelId\":\"4085\"}",
+          "otherUserAction": "{\"spm_id\":\"ballLayer_20|3|6|tpl2|30|个洗家清|\",\"channelBusiness\":\"18\",\"newChannelFlag\":true,\"to\":\"newChannelPage\",\"channelId\":\"4085\"}",
+          "titleColor": "#000000"
+        },
+        "floorCellType": "common"
+      },
+      {
+        "floorCellData": {
+          "to": "newChannelPage",
+          "params": {
+            "channelBusiness": "14",
+            "channelId": "4081",
+            "newChannelFlag": true
+          },
+          "index": 7,
+          "words": "",
+          "imgUrl": "https://img30.360buyimg.com/mobilecms/jfs/t1/183326/17/25803/9501/62a2fe29E9c19f9a1/9fb31fefde8adc5a.png",
+          "title": "母婴",
+          "fixIndex": 5,
+          "userAction": "{\"spm_id\":\"ball_20|3|7|tpl2|30|母婴|\",\"channelBusiness\":\"14\",\"newChannelFlag\":true,\"to\":\"newChannelPage\",\"channelId\":\"4081\"}",
+          "otherUserAction": "{\"spm_id\":\"ballLayer_20|3|7|tpl2|30|母婴|\",\"channelBusiness\":\"14\",\"newChannelFlag\":true,\"to\":\"newChannelPage\",\"channelId\":\"4081\"}",
+          "titleColor": "#000000"
+        },
+        "floorCellType": "common"
+      },
+      {
+        "floorCellData": {
+          "to": "newChannelPage",
+          "params": {
+            "channelBusiness": "13",
+            "channelId": "4077",
+            "newChannelFlag": true
+          },
+          "index": 8,
+          "words": "",
+          "imgUrl": "https://img30.360buyimg.com/mobilecms/jfs/t1/173730/23/1250/10393/60642179E8ac04847/266e4ae9b63903dc.png",
+          "title": "酒水饮料",
+          "fixIndex": 5,
+          "userAction": "{\"spm_id\":\"ball_20|3|8|tpl2|30|酒水饮料|\",\"channelBusiness\":\"13\",\"newChannelFlag\":true,\"to\":\"newChannelPage\",\"channelId\":\"4077\"}",
+          "otherUserAction": "{\"spm_id\":\"ballLayer_20|3|8|tpl2|30|酒水饮料|\",\"channelBusiness\":\"13\",\"newChannelFlag\":true,\"to\":\"newChannelPage\",\"channelId\":\"4077\"}",
+          "titleColor": "#000000"
+        },
+        "floorCellType": "common"
+      },
+      {
+        "floorCellData": {
+          "to": "newChannelPage",
+          "params": {
+            "channelBusiness": "70",
+            "channelId": "4054",
+            "newChannelFlag": true
+          },
+          "index": 9,
+          "words": "满59减20",
+          "imgUrl": "https://img30.360buyimg.com/mobilecms/jfs/t1/188383/18/28513/4538/63204d35E02ac3706/45d803a575430c43.png",
+          "title": "鲜花礼品",
+          "fixIndex": 2,
+          "userAction": "{\"spm_id\":\"ball_20|3|9|tpl2|30|鲜花礼品|\",\"channelBusiness\":\"70\",\"newChannelFlag\":true,\"to\":\"newChannelPage\",\"channelId\":\"4054\"}",
+          "otherUserAction": "{\"spm_id\":\"ballLayer_20|3|9|tpl2|30|鲜花礼品|\",\"channelBusiness\":\"70\",\"newChannelFlag\":true,\"to\":\"newChannelPage\",\"channelId\":\"4054\"}",
+          "titleColor": "#000000"
+        },
+        "floorCellType": "common"
+      },
+      {
+        "floorCellData": {
+          "to": "newChannelPage",
+          "params": {
+            "channelBusiness": "12",
+            "channelId": "4059",
+            "newChannelFlag": true
+          },
+          "index": 10,
+          "words": "iphone14",
+          "imgUrl": "https://img30.360buyimg.com/mobilecms/jfs/t1/189052/6/20765/9009/612c76c2E0e03bcf8/4890e6b053b61d45.png",
+          "title": "手机家电",
+          "fixIndex": 1,
+          "userAction": "{\"spm_id\":\"ball_20|3|10|tpl2|30|手机家电|\",\"channelBusiness\":\"12\",\"newChannelFlag\":true,\"to\":\"newChannelPage\",\"channelId\":\"4059\"}",
+          "otherUserAction": "{\"spm_id\":\"ballLayer_20|3|10|tpl2|30|手机家电|\",\"channelBusiness\":\"12\",\"newChannelFlag\":true,\"to\":\"newChannelPage\",\"channelId\":\"4059\"}",
+          "titleColor": "#000000"
+        },
+        "floorCellType": "common"
+      },
+      {
+        "floorCellData": {
+          "to": "newChannelPage",
+          "params": {
+            "channelBusiness": "22",
+            "channelId": "4087",
+            "newChannelFlag": true
+          },
+          "index": 11,
+          "words": "",
+          "imgUrl": "https://img30.360buyimg.com/mobilecms/jfs/t1/184985/2/8411/9355/60c185fdE41f7b5d3/2225851aa2899ede.png",
+          "title": "美妆护肤",
+          "fixIndex": 5,
+          "userAction": "{\"spm_id\":\"ball_20|3|11|tpl2|30|美妆护肤|\",\"channelBusiness\":\"22\",\"newChannelFlag\":true,\"to\":\"newChannelPage\",\"channelId\":\"4087\"}",
+          "otherUserAction": "{\"spm_id\":\"ballLayer_20|3|11|tpl2|30|美妆护肤|\",\"channelBusiness\":\"22\",\"newChannelFlag\":true,\"to\":\"newChannelPage\",\"channelId\":\"4087\"}",
+          "titleColor": "#000000"
+        },
+        "floorCellType": "common"
+      },
+      {
+        "floorCellData": {
+          "to": "newChannelPage",
+          "params": {
+            "channelBusiness": "60",
+            "channelId": "4055",
+            "newChannelFlag": true
+          },
+          "index": 12,
+          "words": "",
+          "imgUrl": "https://img30.360buyimg.com/mobilecms/jfs/t1/158704/3/1167/10639/5fefa77cE72b13dff/9dde706f7245ca15.png",
+          "title": "烘焙蛋糕",
+          "fixIndex": 5,
+          "userAction": "{\"spm_id\":\"ball_20|3|12|tpl2|30|烘焙蛋糕|\",\"channelBusiness\":\"60\",\"newChannelFlag\":true,\"to\":\"newChannelPage\",\"channelId\":\"4055\"}",
+          "otherUserAction": "{\"spm_id\":\"ballLayer_20|3|12|tpl2|30|烘焙蛋糕|\",\"channelBusiness\":\"60\",\"newChannelFlag\":true,\"to\":\"newChannelPage\",\"channelId\":\"4055\"}",
+          "titleColor": "#000000"
+        },
+        "floorCellType": "common"
+      },
+      {
+        "floorCellData": {
+          "to": "newChannelPage",
+          "params": {
+            "channelBusiness": "24",
+            "channelId": "4098",
+            "newChannelFlag": true
+          },
+          "index": 14,
+          "words": "",
+          "imgUrl": "https://img30.360buyimg.com/mobilecms/jfs/t1/80736/34/18890/8366/62a2fe99E973935df/c5ead8448deef72c.png",
+          "title": "家居家装",
+          "fixIndex": 5,
+          "userAction": "{\"spm_id\":\"ball_20|3|13|tpl2|30|家居家装|\",\"channelBusiness\":\"24\",\"newChannelFlag\":true,\"to\":\"newChannelPage\",\"channelId\":\"4098\"}",
+          "otherUserAction": "{\"spm_id\":\"ballLayer_20|3|13|tpl2|30|家居家装|\",\"channelBusiness\":\"24\",\"newChannelFlag\":true,\"to\":\"newChannelPage\",\"channelId\":\"4098\"}",
+          "titleColor": "#000000"
+        },
+        "floorCellType": "common"
+      },
+      {
+        "floorCellData": {
+          "to": "newChannelPage",
+          "params": {
+            "channelBusiness": "23",
+            "channelId": "4099",
+            "newChannelFlag": true
+          },
+          "index": 15,
+          "words": "",
+          "imgUrl": "https://img30.360buyimg.com/mobilecms/jfs/t1/192078/28/25742/11013/62a2fec1Ee8edf70c/2f02443be48734ff.png",
+          "title": "服饰运动",
+          "fixIndex": 5,
+          "userAction": "{\"spm_id\":\"ball_20|3|14|tpl2|30|服饰运动|\",\"channelBusiness\":\"23\",\"newChannelFlag\":true,\"to\":\"newChannelPage\",\"channelId\":\"4099\"}",
+          "otherUserAction": "{\"spm_id\":\"ballLayer_20|3|14|tpl2|30|服饰运动|\",\"channelBusiness\":\"23\",\"newChannelFlag\":true,\"to\":\"newChannelPage\",\"channelId\":\"4099\"}",
+          "titleColor": "#000000"
+        },
+        "floorCellType": "common"
+      },
+      {
+        "floorCellData": {
+          "to": "newChannelPage",
+          "params": {
+            "channelBusiness": "26",
+            "channelId": "4101",
+            "newChannelFlag": true
+          },
+          "index": 16,
+          "words": "",
+          "imgUrl": "https://img30.360buyimg.com/mobilecms/jfs/t1/28377/34/16791/8589/62a2fee5Ed4b7471e/260ec64ddf7bf496.png",
+          "title": "电脑数码",
+          "fixIndex": 5,
+          "userAction": "{\"spm_id\":\"ball_20|3|15|tpl2|30|电脑数码|\",\"channelBusiness\":\"26\",\"newChannelFlag\":true,\"to\":\"newChannelPage\",\"channelId\":\"4101\"}",
+          "otherUserAction": "{\"spm_id\":\"ballLayer_20|3|15|tpl2|30|电脑数码|\",\"channelBusiness\":\"26\",\"newChannelFlag\":true,\"to\":\"newChannelPage\",\"channelId\":\"4101\"}",
+          "titleColor": "#000000"
+        },
+        "floorCellType": "common"
+      },
+      {
+        "floorCellData": {
+          "to": "newChannelPage",
+          "params": {
+            "channelBusiness": "25",
+            "channelId": "4103",
+            "newChannelFlag": true
+          },
+          "index": 17,
+          "words": "",
+          "imgUrl": "https://img30.360buyimg.com/mobilecms/jfs/t1/222323/36/18463/8462/62a2ff0bEbf0873ec/77343fcd9fda983b.png",
+          "title": "宠物生活",
+          "fixIndex": 5,
+          "userAction": "{\"spm_id\":\"ball_20|3|16|tpl2|30|宠物生活|\",\"channelBusiness\":\"25\",\"newChannelFlag\":true,\"to\":\"newChannelPage\",\"channelId\":\"4103\"}",
+          "otherUserAction": "{\"spm_id\":\"ballLayer_20|3|16|tpl2|30|宠物生活|\",\"channelBusiness\":\"25\",\"newChannelFlag\":true,\"to\":\"newChannelPage\",\"channelId\":\"4103\"}",
+          "titleColor": "#000000"
+        },
+        "floorCellType": "common"
+      },
+      {
+        "floorCellData": {
+          "to": "newChannelPage",
+          "params": {
+            "channelBusiness": "17",
+            "channelId": "4084",
+            "newChannelFlag": true
+          },
+          "index": 18,
+          "words": "",
+          "imgUrl": "https://img30.360buyimg.com/mobilecms/jfs/t1/191096/7/59/9428/608623ebE86bd6017/a5126fa69bf0ce19.png",
+          "title": "休闲食品",
+          "fixIndex": 5,
+          "userAction": "{\"spm_id\":\"ball_20|3|17|tpl2|30|休闲食品|\",\"channelBusiness\":\"17\",\"newChannelFlag\":true,\"to\":\"newChannelPage\",\"channelId\":\"4084\"}",
+          "otherUserAction": "{\"spm_id\":\"ballLayer_20|3|17|tpl2|30|休闲食品|\",\"channelBusiness\":\"17\",\"newChannelFlag\":true,\"to\":\"newChannelPage\",\"channelId\":\"4084\"}",
+          "titleColor": "#000000"
+        },
+        "floorCellType": "common"
+      }
+    ]
